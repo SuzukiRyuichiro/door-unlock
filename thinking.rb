@@ -20,4 +20,4 @@ list = []
   end
 end
 
-
+p list
